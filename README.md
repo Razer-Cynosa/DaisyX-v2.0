@@ -24,7 +24,7 @@
 ## Avaiilable on Telegram as [@ZoroXBot](https://t.me/BotZoroXbot)
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX-v2.0.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Razer-Cynosa/ZoroX-v2.0.git)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
@@ -66,8 +66,8 @@ All other credits mentioned on top of scripts
 
 Anything missing kindly let us know at [Zoro Support](https://t.me/caritemanataudoi) or simply submit a pull request on the readme.
 
-# Daisy X the telegram Bot Project
-DaisyX-v2.0 (Base AioGram)
+# Zoro X the telegram Bot Project
+ZoroX-v2.0 (Base AioGram)
 
 
 ## Contributors
