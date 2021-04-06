@@ -1,2 +1,2 @@
-DAISYX: python3 -m DaisyX
-ps:scale DAISYX=1
+ZOROX: python3 -m ZoroX
+ps:scale ZOROX=1
