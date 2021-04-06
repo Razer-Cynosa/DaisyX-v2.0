@@ -7,7 +7,7 @@
   <a href="https://github.com/TeamDaisyX/DaisyX-v2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/DaisySupport_Official"><img src="https://telegra.ph/file/23448c98735bd81df47e7.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/caritemanataudoi"><img src="https://telegra.ph/file/05f2644219853ba909723.jpg" width="400"></a></p>
 <p align="center">
     <a href="https://app.codacy.com/manual/teamdaisyx/daisyx-v2.0/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/teamdaisyx/daisyx-v2.0"> <img src="https://img.shields.io/github/repo-size/teamdaisyx/daisyx-v2.0?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -29,8 +29,8 @@
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
 # ❤️ Support
-<a href="https://t.me/DaisySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/DaisyXupdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/RoronoaZoro_Xbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/catitemanataudoi"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 # 😍 Credits
 
@@ -64,7 +64,7 @@ This repo was just revamped to suit an Anime-centric & comedy loving community. 
 
 All other credits mentioned on top of scripts
 
-Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport_Official) or simply submit a pull request on the readme.
+Anything missing kindly let us know at [Zoro Support](https://t.me/caritemanataudoi) or simply submit a pull request on the readme.
 
 # Daisy X the telegram Bot Project
 DaisyX-v2.0 (Base AioGram)
